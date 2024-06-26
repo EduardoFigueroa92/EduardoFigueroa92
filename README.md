@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Actualmente sigo en proceso de aprendizaje continuo realizando formaciones, y pronto comenzaré el ciclo formativo de desarrollo de aplicaciones web
 <!--
 **EduardoFigueroa92/EduardoFigueroa92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
