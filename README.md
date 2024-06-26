@@ -1,7 +1,5 @@
 ## Hi there 👋
 Tras realizar una formación de 4 meses en varios lenguajes de programación y descubrir mi afición por el mundo del desarrollo web, sigo en proceso de aprendizaje realizando formaciones continuas para ampliar mis conocimientos y poder demostrar así mis competencias tecnológicas.
-Actualmente trabajo con:
-HTML, CSS, JavaScript, React, Bootstrap
 <!--
 **EduardoFigueroa92/EduardoFigueroa92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
