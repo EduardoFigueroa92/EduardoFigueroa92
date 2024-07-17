@@ -1,7 +1,8 @@
 ## Hi there 👋
 Tras realizar una formación de 4 meses en varios lenguajes de programación y descubrir mi afición por el mundo del desarrollo web, sigo en proceso de aprendizaje realizando formaciones continuas para ampliar mis conocimientos y poder demostrar así mis competencias tecnológicas.
-https://cdn.worldvectorlogo.com/logos/javascript-1.svg
-<!--
+
+<!--![JavaScript-logo](https://github.com/user-attachments/assets/cecf24c1-a6a2-4fca-9dce-cc4568dd66c8)
+
 **EduardoFigueroa92/EduardoFigueroa92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
