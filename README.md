@@ -1,5 +1,6 @@
 ## Hi there 👋
-Tras realizar una formación de 4 meses en varios lenguajes de programación y descubrir mi afición por el mundo del desarrollo web, sigo en proceso de aprendizaje realizando formaciones continuas para ampliar mis conocimientos y poder demostrar así mis competencias tecnológicas.
+En proceso de aprendizaje.
+Realizando el CFGS de DAW
 
 <!--![JavaScript-logo](https://github.com/user-attachments/assets/cecf24c1-a6a2-4fca-9dce-cc4568dd66c8)
 
